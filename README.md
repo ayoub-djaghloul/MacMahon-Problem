@@ -1,24 +1,26 @@
 # MacMahon-Problem
 MacMahon Problem c++
+
 Temps pour atteindre la solution
+-
 Algorithme Séquentielle
-4x4
-0.004395 sec 
+-
+4x4 --> 0.004395 sec 
+-
 
+5x5 --> 1.972051 sec 
+-
 
-5x5
-1.972051 sec 
-
-
-6x6
-14.681739 sec 
+6x6 --> 14.681739 sec 
+-
 
 Algorithme Avec les threads
-4x4
 -
-5x5
+4x4 --> --
+-
+5x5 --> --
 - 
-6x6
+6x6 --> --
 -
 
 
